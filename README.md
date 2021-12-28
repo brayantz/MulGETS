@@ -1,6 +1,6 @@
 # MulGETS
 
-This version of MulGETS (Multi-site weather Generator of École de Technologie Supérieure) were made to fix some bugs and improve the perfomance of the original version. Only precipitation were considerede here.
+This version of MulGETS (Multi-site weather Generator of École de Technologie Supérieure) were made to fix some bugs and improve the perfomance of the original version. Only precipitation were considered here.
 
 The original version can be found here: https://uk.mathworks.com/matlabcentral/fileexchange/47537-multi-site-stochstic-weather-generator-mulgets
 
